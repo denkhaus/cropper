@@ -33,7 +33,7 @@ func main() {
 	app.Version = "1.0.0"
 	app.Name = "cropper"
 	app.EnableBashCompletion = true
-	app.Usage = "A simple image cropper"
+	app.Usage = "A simple image croper"
 	app.Flags = []cli.Flag{
 		cli.StringFlag{
 			Name:  "wh",

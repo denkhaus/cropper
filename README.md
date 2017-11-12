@@ -1,6 +1,6 @@
 # cropper
 
-A simple image croper. Makes use of the supersmart [smartcrop]("github.com/muesli/smartcrop") lib.
+A simple image croper. Makes use of the supersmart [smartcrop]("https://github.com/muesli/smartcrop") lib.
 
 
 ## usage
@@ -20,7 +20,7 @@ go get -u github.com/denkhaus/cropper
 
 ```
 NAME:
-   cropper - A simple image cropper
+   cropper - A simple image croper
 
 USAGE:
    cropper [global options] command [command options] [arguments...]
